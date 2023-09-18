@@ -1,5 +1,6 @@
 import qrcode
 
+# lastest test by sammmm
 # Define the data to encode in the QR code
 data = "Hello, my little girl esther. Today is Friyay. Book your Sat and Sun pi happy ya. This sat we pi gurney paragon, onz mou?"  # Replace this with your desired data
 
